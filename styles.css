@@ -1,0 +1,160 @@
+.navbar{
+    height: 80px;
+}
+#navbarTogglerDemo02{
+    background-color: rgb(36, 36, 36);
+
+}
+.nav-item{
+    
+padding-left: 2em;
+font-size: x-large;
+}
+
+.logo-img{
+    height: 45px;
+    width: 160px;
+}
+#carousel{
+    background-color: rgb(34, 34, 34);
+}
+
+@media (max-width:  640px){
+    .carousel-pics{
+        height: 350px;
+    width: 400px;
+    }
+}
+@media (max-width:  1007px) and (min-width: 641px){
+    .carousel-pics{
+        height: 550px;
+    width: 650px;
+    }
+}
+@media (min-width: 1008px){
+    .carousel-pics{
+        height: 700px;
+    width: 1220px;
+    }
+}
+
+ 
+ body{
+     background-color:rgb(187, 187, 187);
+ }
+ .carousel-control-prev,
+.carousel-control-next{
+      bottom: 2%;
+      border: 10px grey ;
+}
+#id1{
+    text-align: center;
+    font-size:60px;
+    margin-top: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.blocks{
+    padding: 50px;
+}
+.card{
+    height: 100%;
+}
+#features{
+    margin-top: 50px;
+    padding: 1% 15%;
+}
+.feature-box{
+    text-align:center;
+    padding: 4.5%;
+}
+
+.description-heading{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.description{
+    text-align:center;
+    font-weight:400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+}
+.icon{
+    margin-bottom: 2rem;
+}
+.nav-item{
+    font-weight: bolder;
+}
+.nav-item:hover{
+    border: 2px whitesmoke ;
+}
+
+#contact{
+    background-color: rgb(12, 12, 12);
+    color: rgb(155, 155, 155);
+}
+.photo-gallery-heading{
+    padding: 50px;
+}
+#photo-gallery{
+    background-color: rgb(12, 12, 12);
+    color: rgb(155, 155, 155);
+    
+    margin-bottom: 50px;
+}
+.row-photo-gallery{
+    margin-left: 100px;
+    margin-right: 100px;
+    
+    padding: 8px;
+}
+.stone-pics{
+    height: 200px;
+    width: 230px;
+    
+}
+.caption{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}
+.link-photo-gallery{
+    
+    text-decoration: none;
+    color:inherit;
+}
+
+.about-us-description{
+     margin-left: 5em;
+     margin-right: 5em;
+     margin-top: 50px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-weight: bolder;
+}
+#about-us{
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.why-us-points{
+    list-style-type: none;
+}
+.stone-pics:hover{
+    height:300px;
+    width: 330px;
+    
+}
+
+
+.granite-intro , .marble-intro{
+    padding-left: 100px;
+    padding-right: 100px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#breadcrumb{
+    margin-top: 120px;
+    padding-left: 100px;
+}
+
+
